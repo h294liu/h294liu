@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hongli Liu @h294liu.
+- 👋 Hi, I’m Hongli Liu.
 - 👀 I’m interested in hydrologic modeling and forecasting applications.
 - 🌱 I’m currently learning Python and Fortran.
 - 💞️ I’m looking to collaborate on spatial intelligence, large-domain parameter estimation, and uncertainty analysis in hydrologic modeling.
