@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hongli Liu.
+- Hi, I’m Hongli Liu.
 - I’m interested in hydrologic modeling and forecasting applications.
 - I’m looking to collaborate on spatial intelligence, large-domain parameter estimation, and uncertainty analysis in hydrologic modeling.
 - Please reach me via hongli.liu@ualberta.ca.
